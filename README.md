@@ -1,1 +1,2 @@
 # creating-EC2-instance
+In this task, I created and configured a virtual machine on AWS using the EC2 service to understand how cloud-based infrastructure works. I selected an Ubuntu 22.04 LTS operating system, launched a free-tier t2.micro instance, and enabled SSH access. After deployment, I connected to the instance via SSH from the AWS console and executed basic Linux commands to verify the setup. This helped me gain practical experience in launching, managing, and accessing cloud virtual machines.
